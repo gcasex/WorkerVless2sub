@@ -1,5 +1,5 @@
 
-let 快速订阅访问入口 = ['auto'];
+let 快速订阅访问入口 = ['IMITED-edition-3168-5000'];
 let addresses = [];
 let addressesapi = [];
 
@@ -1461,3 +1461,4 @@ export default {
 		}
 	}
 };
+
